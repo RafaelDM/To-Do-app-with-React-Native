@@ -9,7 +9,7 @@ import {NavigationContainer, NavigationNativeContainer} from '@react-navigation/
 import {createStackNavigator} from '@react-navigation/stack';
 
 const Stack = createStackNavigator()
-
+// react-native run-ios --simulator="iPhone 8"
 const LogInScreen = ({navigation}) => (
   <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
         <LoginButton

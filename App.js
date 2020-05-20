@@ -1,3 +1,14 @@
+import React from 'react';
+import MainBasic from './Components/MainBasic';
+import MainIncognite from './Components/MainIncognite';
+
+export default class App extends React.Component{
+  render(){
+    return(
+      <MainIncognite/>
+    );
+  }
+}
 /*'use strict';
 import React, {Component} from 'react';
 import {Alert, StyleSheet, Text, TouchableHighlight, View} from 'react-native';
@@ -44,7 +55,7 @@ export default class App extends Component<{}> {
 
         <TouchableHighlight
           style={styles.btn}
-          onPress={this._clickHandler}
+          //onPress={this._clickHandler} mostrar el login de facebook que ya hizo este guti
           underlayColor="#0380BE"
           activeOpacity={1}>
           <Text
@@ -125,14 +136,3 @@ const styles = StyleSheet.create({
 });*/
 
 
-import React from 'react';
-import MainBasic from './Components/MainBasic';
-import MainIncognite from './Components/MainIncognite';
-
-export default class App extends React.Component{
-  render(){
-    return(
-      <MainIncognite/>
-    );
-  }
-}

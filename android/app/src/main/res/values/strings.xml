@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">EjemploA</string>
+    <string name="app_name">NoteMe</string>
+    <string name="facebook_app_id">227078098419375</string>
 </resources>

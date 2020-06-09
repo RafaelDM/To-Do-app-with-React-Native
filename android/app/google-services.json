@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82821064478",
+    "firebase_url": "https://noteme-tec.firebaseio.com",
+    "project_id": "noteme-tec",
+    "storage_bucket": "noteme-tec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82821064478:android:9e55a914629f23b97b0b0f",
+        "android_client_info": {
+          "package_name": "com.noteme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82821064478-261cvv9ae68jce9asl4v8knqvtqd5ktq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQYU4-7WTmA1BnzFRFg_wCrXIXL_bzESM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82821064478-261cvv9ae68jce9asl4v8knqvtqd5ktq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82821064478-pfeq543tjg7kc5rd81bpfdlkudrgbc2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.noteme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>82821064478-pfeq543tjg7kc5rd81bpfdlkudrgbc2u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.82821064478-pfeq543tjg7kc5rd81bpfdlkudrgbc2u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADO8NxI29kVod49oSbMkdXZAMQ7Ahf8CQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>82821064478</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.NoteMe</string>
+	<key>PROJECT_ID</key>
+	<string>noteme-tec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>noteme-tec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:82821064478:ios:6c6d306787af0ff57b0b0f</string>
+	<key>DATABASE_URL</key>
+	<string>https://noteme-tec.firebaseio.com</string>
+</dict>
+</plist>
